@@ -1,0 +1,5 @@
+github "onevcat/Kingfisher"
+github "SnapKit/SnapKit"
+github "Alamofire/Alamofire"
+github "SwiftKickMobile/SwiftMessages"
+github "Hearst-DD/ObjectMapper"
